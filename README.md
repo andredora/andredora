@@ -8,5 +8,5 @@
 
 
 <div align="left">
- <img src="https://skillicons.dev/icons?i=react,spring,java,javascript,python,html,css,svelte,mongodb,ts,mysql,docker,nextjs,expo,git&theme=dark&perline=14"><br>
+  <img src="https://skillicons.dev/icons?i=react,spring,java,javascript,python,html,css,svelte,mongodb,postgres,tailwind,styledcomponents,astro,nextjs,expo,ts,mysql,docker,git&theme=dark&perline=14" />
 </div>
